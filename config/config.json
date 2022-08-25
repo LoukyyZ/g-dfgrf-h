@@ -1,0 +1,10 @@
+{
+    "proxies": "socks4",
+    "thread": "10000",
+
+    "webhook": {
+        "url": "https://discord.com/api/webhooks/994875610562314340/4vKNfqqgLnHlwYfvVBgrtUh7Yx9YOZJbF-CeJkYHsYoY7lMEncwQq4Mq2yNUM4m5ubdQ",
+        "username": "Nitro gen",
+        "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
+    }
+}
